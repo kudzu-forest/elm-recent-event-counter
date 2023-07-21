@@ -1,0 +1,16 @@
+{
+    "type": "package",
+    "name": "kudzu-forest/elm-recent-event-counter",
+    "summary": "A suspendable stopwatch counting events that took place in latest xxx seconds.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "RecentEventCounter"
+    ],
+    "elm-version": "0.19.1 <= v < 0.20.0",
+    "dependencies": {
+        "elm/core": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {
+	}
+}
