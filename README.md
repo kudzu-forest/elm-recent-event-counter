@@ -6,5 +6,5 @@ You can count any kinds of events happend in most recent `x` milliseconds (You c
 
 The target usage is mini-game like quiz or typing games,
 where you want to count how many score the user gained in 30 seconds or something.
-Demonstration is given at [hoge](fuga).
+Demonstration is given at [Ellie](https://ellie-app.com/nr7SxHnnrH6a1).
 
